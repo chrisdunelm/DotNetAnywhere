@@ -1,0 +1,72 @@
+ja-JP
+0x0411
+ja
+Japanese (Japan)
+日本語 (日本)
+Japanese (Japan)
+ja
+jpn
+JPN
+GregorianCalendar:Localized
+GregorianCalendar:Localized,JapaneseCalendar,GregorianCalendar:USEnglish
+70
+ja-JP
+False
+932
+20290
+False
+,
+10001
+932
+0
+.
+,
+3
+1
+0
+¥
+1
+NaN (非数値)
+0,1,2,3,4,5,6,7,8,9
+-∞
+-
+2
+.
+,
+3
+1
+2
+.
+,
+3
+1
+1
+%
+‰
++∞
++
+日,月,火,水,木,金,土
+1,2,3,4,5,6,7,8,9,10,11,12,
+1,2,3,4,5,6,7,8,9,10,11,12,
+午前
+0
+/
+日曜日,月曜日,火曜日,水曜日,木曜日,金曜日,土曜日
+0
+yyyy'年'M'月'd'日' H:mm:ss
+yyyy'年'M'月'd'日'
+H:mm:ss
+M'月'd'日'
+1月,2月,3月,4月,5月,6月,7月,8月,9月,10月,11月,12月,
+1月,2月,3月,4月,5月,6月,7月,8月,9月,10月,11月,12月,
+西暦 (日本語)
+H:mm:ss
+午後
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+yyyy/MM/dd
+日,月,火,水,木,金,土
+H:mm
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+:
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+yyyy'年'M'月'

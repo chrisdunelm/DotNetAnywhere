@@ -1,0 +1,72 @@
+pt-BR
+0x0416
+pt
+Portuguese (Brazil)
+Português (Brasil)
+Portuguese (Brazil)
+pt
+por
+PTB
+GregorianCalendar:Localized
+GregorianCalendar:Localized
+70
+pt-BR
+False
+1252
+500
+False
+;
+10000
+850
+2
+,
+.
+3
+9
+2
+R$
+1
+NaN (Não é um número)
+0,1,2,3,4,5,6,7,8,9
+-Infinito
+-
+2
+,
+.
+3
+1
+2
+,
+.
+3
+1
+1
+%
+‰
++Infinito
++
+dom,seg,ter,qua,qui,sex,sáb
+jan,fev,mar,abr,mai,jun,jul,ago,set,out,nov,dez,
+jan,fev,mar,abr,mai,jun,jul,ago,set,out,nov,dez,
+
+0
+/
+domingo,segunda-feira,terça-feira,quarta-feira,quinta-feira,sexta-feira,sábado
+0
+dddd, d' de 'MMMM' de 'yyyy H:mm:ss
+dddd, d' de 'MMMM' de 'yyyy
+H:mm:ss
+dd' de 'MMMM
+janeiro,fevereiro,março,abril,maio,junho,julho,agosto,setembro,outubro,novembro,dezembro,
+janeiro,fevereiro,março,abril,maio,junho,julho,agosto,setembro,outubro,novembro,dezembro,
+Calendário gregoriano
+H:mm:ss
+
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+d/M/yyyy
+dom,seg,ter,qua,qui,sex,sáb
+H:mm
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+:
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+MMMM' de 'yyyy

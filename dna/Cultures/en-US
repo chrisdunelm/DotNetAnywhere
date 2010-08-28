@@ -1,0 +1,72 @@
+en-US
+0x0409
+en
+English (United States)
+English (United States)
+English (United States)
+en
+eng
+ENU
+GregorianCalendar:Localized
+GregorianCalendar:Localized,GregorianCalendar:USEnglish
+70
+en-US
+False
+1252
+37
+False
+,
+10000
+437
+2
+.
+,
+3
+0
+0
+$
+1
+NaN
+0,1,2,3,4,5,6,7,8,9
+-Infinity
+-
+2
+.
+,
+3
+1
+2
+.
+,
+3
+0
+0
+%
+‰
+Infinity
++
+Sun,Mon,Tue,Wed,Thu,Fri,Sat
+Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,
+Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,
+AM
+0
+/
+Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday
+0
+dddd, MMMM dd, yyyy h:mm:ss tt
+dddd, MMMM dd, yyyy
+h:mm:ss tt
+MMMM dd
+January,February,March,April,May,June,July,August,September,October,November,December,
+January,February,March,April,May,June,July,August,September,October,November,December,
+Gregorian Calendar
+h:mm:ss tt
+PM
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+M/d/yyyy
+Su,Mo,Tu,We,Th,Fr,Sa
+h:mm tt
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+:
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+MMMM, yyyy

@@ -1,0 +1,72 @@
+id-ID
+0x0421
+id
+Indonesian (Indonesia)
+Bahasa Indonesia (Indonesia)
+Indonesian (Indonesia)
+id
+ind
+IND
+GregorianCalendar:Localized
+GregorianCalendar:Localized
+70
+id-ID
+False
+1252
+500
+False
+;
+10000
+850
+0
+,
+.
+3
+0
+0
+Rp
+1
+NaN
+0,1,2,3,4,5,6,7,8,9
+-Infinity
+-
+2
+,
+.
+3
+1
+2
+,
+.
+3
+0
+0
+%
+‰
+Infinity
++
+Minggu,Sen,Sel,Rabu,Kamis,Jumat,Sabtu
+Jan,Feb,Mar,Apr,Mei,Jun,Jul,Agust,Sep,Okt,Nop,Des,
+Jan,Feb,Mar,Apr,Mei,Jun,Jul,Agust,Sep,Okt,Nop,Des,
+
+0
+/
+Minggu,Senin,Selasa,Rabu,Kamis,Jumat,Sabtu
+1
+dd MMMM yyyy H:mm:ss
+dd MMMM yyyy
+H:mm:ss
+dd MMMM
+Januari,Februari,Maret,April,Mei,Juni,Juli,Agustus,September,Oktober,Nopember,Desember,
+Januari,Februari,Maret,April,Mei,Juni,Juli,Agustus,September,Oktober,Nopember,Desember,
+kalendar Masehi
+H:mm:ss
+
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+dd/MM/yyyy
+M,S,S,R,K,J,S
+H:mm
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+:
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+MMMM yyyy

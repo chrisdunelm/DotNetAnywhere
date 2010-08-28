@@ -1,0 +1,72 @@
+sv-FI
+0x081d
+sv
+Swedish (Finland)
+svenska (Finland)
+Swedish (Finland)
+sv
+swe
+SVF
+GregorianCalendar:Localized
+GregorianCalendar:Localized
+70
+sv-FI
+False
+1252
+20278
+False
+;
+10000
+850
+2
+,
+ 
+3
+8
+3
+€
+1
+NaN
+0,1,2,3,4,5,6,7,8,9
+-INF
+-
+2
+,
+ 
+3
+1
+2
+,
+ 
+3
+0
+0
+%
+‰
+INF
++
+sö,må,ti,on,to,fr,lö
+jan,feb,mar,apr,maj,jun,jul,aug,sep,okt,nov,dec,
+jan,feb,mar,apr,maj,jun,jul,aug,sep,okt,nov,dec,
+
+2
+.
+söndag,måndag,tisdag,onsdag,torsdag,fredag,lördag
+1
+'den 'd MMMM yyyy HH:mm:ss
+'den 'd MMMM yyyy
+HH:mm:ss
+'den 'd MMMM
+januari,februari,mars,april,maj,juni,juli,augusti,september,oktober,november,december,
+januari,februari,mars,april,maj,juni,juli,augusti,september,oktober,november,december,
+gregoriansk kalender
+HH:mm:ss
+
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+d.M.yyyy
+sö,må,ti,on,to,fr,lö
+HH:mm
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+:
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+MMMM yyyy

@@ -1,0 +1,72 @@
+sq-AL
+0x041c
+sq
+Albanian (Albania)
+shqipe (Shqipëria)
+Albanian (Albania)
+sq
+sqi
+SQI
+GregorianCalendar:Localized
+GregorianCalendar:Localized
+70
+sq-AL
+False
+1250
+20880
+False
+;
+10029
+852
+2
+,
+.
+3
+5
+1
+Lek
+1
+NaN
+0,1,2,3,4,5,6,7,8,9
+-Infinity
+-
+2
+,
+.
+3
+1
+2
+,
+.
+3
+0
+0
+%
+‰
+Infinity
++
+Die,Hën,Mar,Mër,Enj,Pre,Sht
+Jan,Shk,Mar,Pri,Maj,Qer,Kor,Gsh,Sht,Tet,Nën,Dhj,
+Jan,Shk,Mar,Pri,Maj,Qer,Kor,Gsh,Sht,Tet,Nën,Dhj,
+PD
+0
+-
+e diel,e hënë,e martë,e mërkurë,e enjte,e premte,e shtunë
+1
+yyyy-MM-dd h:mm:ss.tt
+yyyy-MM-dd
+h:mm:ss.tt
+MMMM dd
+janar,shkurt,mars,prill,maj,qershor,korrik,gusht,shtator,tetor,nëntor,dhjetor,
+janar,shkurt,mars,prill,maj,qershor,korrik,gusht,shtator,tetor,nëntor,dhjetor,
+Gregorian Calendar
+h:mm:ss.tt
+MD
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+yyyy-MM-dd
+Di,Hë,Ma,Më,En,Pr,Sh
+h:mm.tt
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+:
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+yyyy-MM

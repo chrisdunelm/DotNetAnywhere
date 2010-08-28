@@ -1,0 +1,72 @@
+pl-PL
+0x0415
+pl
+Polish (Poland)
+polski (Polska)
+Polish (Poland)
+pl
+pol
+PLK
+GregorianCalendar:Localized
+GregorianCalendar:Localized
+70
+pl-PL
+False
+1250
+20880
+False
+;
+10029
+852
+2
+,
+ 
+3
+8
+3
+zł
+1
+nie jest liczbą
+0,1,2,3,4,5,6,7,8,9
+-nieskończoność
+-
+2
+,
+ 
+3
+1
+2
+,
+ 
+3
+1
+1
+%
+‰
++nieskończoność
++
+N,Pn,Wt,Śr,Cz,Pt,So
+sty,lut,mar,kwi,maj,cze,lip,sie,wrz,paź,lis,gru,
+sty,lut,mar,kwi,maj,cze,lip,sie,wrz,paź,lis,gru,
+
+2
+-
+niedziela,poniedziałek,wtorek,środa,czwartek,piątek,sobota
+1
+d MMMM yyyy HH:mm:ss
+d MMMM yyyy
+HH:mm:ss
+d MMMM
+stycznia,lutego,marca,kwietnia,maja,czerwca,lipca,sierpnia,września,października,listopada,grudnia,
+styczeń,luty,marzec,kwiecień,maj,czerwiec,lipiec,sierpień,wrzesień,październik,listopad,grudzień,
+Kalendarz gregoriański
+HH:mm:ss
+
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+yyyy-MM-dd
+N,Pn,Wt,Śr,Cz,Pt,So
+HH:mm
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+:
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+MMMM yyyy

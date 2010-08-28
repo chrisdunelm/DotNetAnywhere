@@ -1,0 +1,72 @@
+ur-PK
+0x0420
+ur
+Urdu (Islamic Republic of Pakistan)
+اُردو (پاکستان)
+Urdu (Islamic Republic of Pakistan)
+ur
+urd
+URD
+GregorianCalendar:Localized
+GregorianCalendar:Localized,GregorianCalendar:USEnglish,HijriCalendar
+70
+ur-PK
+False
+1256
+20420
+True
+;
+10004
+720
+2
+.
+,
+3
+3
+0
+Rs
+1
+NaN
+۰,۱,۲,۳,۴,۵,۶,۷,۸,۹
+-Infinity
+-
+2
+.
+,
+3
+1
+2
+.
+,
+3
+0
+0
+%
+‰
+Infinity
++
+اتوار,پير,منگل,بدھ,جمعرات,جمعه,هفته
+جنورى,فرورى,مارچ,اپريل,مئ,جون,جولاٸ,اگست,ستمبر,اکتوبر,نومبر,دسمبر,
+جنورى,فرورى,مارچ,اپريل,مئ,جون,جولاٸ,اگست,ستمبر,اکتوبر,نومبر,دسمبر,
+AM
+1
+/
+اتوار,پير,منگل,بدھ,جمعرات,جمعه,هفته
+1
+dd MMMM, yyyy h:mm:ss tt
+dd MMMM, yyyy
+h:mm:ss tt
+dd MMMM
+جنورى,فرورى,مارچ,اپريل,مئ,جون,جولاٸ,اگست,ستمبر,اکتوبر,نومبر,دسمبر,
+جنورى,فرورى,مارچ,اپريل,مئ,جون,جولاٸ,اگست,ستمبر,اکتوبر,نومبر,دسمبر,
+عيسوى سال
+h:mm:ss tt
+PM
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+dd/MM/yyyy
+ا,پ,م,ب,ج,ج,ه
+h:mm tt
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+:
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+MMMM, yyyy

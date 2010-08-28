@@ -1,0 +1,72 @@
+sl-SI
+0x0424
+sl
+Slovenian (Slovenia)
+slovenski (Slovenija)
+Slovenian (Slovenia)
+sl
+slv
+SLV
+GregorianCalendar:Localized
+GregorianCalendar:Localized
+70
+sl-SI
+False
+1250
+20880
+False
+;
+10029
+852
+2
+,
+.
+3
+8
+3
+SIT
+1
+NaN
+0,1,2,3,4,5,6,7,8,9
+-neskončnost
+-
+2
+,
+.
+3
+1
+2
+,
+.
+3
+1
+1
+%
+‰
+neskončnost
++
+ned,pon,tor,sre,čet,pet,sob
+jan,feb,mar,apr,maj,jun,jul,avg,sep,okt,nov,dec,
+jan,feb,mar,apr,maj,jun,jul,avg,sep,okt,nov,dec,
+
+0
+.
+nedelja,ponedeljek,torek,sreda,četrtek,petek,sobota
+1
+d. MMMM yyyy H:mm:ss
+d. MMMM yyyy
+H:mm:ss
+d. MMMM
+januar,februar,marec,april,maj,junij,julij,avgust,september,oktober,november,december,
+januar,februar,marec,april,maj,junij,julij,avgust,september,oktober,november,december,
+gregorijanski koledar
+H:mm:ss
+
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+d.M.yyyy
+ne,po,to,sr,če,pe,so
+H:mm
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+:
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+MMMM yyyy

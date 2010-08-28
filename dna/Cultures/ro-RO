@@ -1,0 +1,72 @@
+ro-RO
+0x0418
+ro
+Romanian (Romania)
+română (România)
+Romanian (Romania)
+ro
+ron
+ROM
+GregorianCalendar:Localized
+GregorianCalendar:Localized
+70
+ro-RO
+False
+1250
+20880
+False
+;
+10029
+852
+2
+,
+.
+3
+8
+3
+lei
+1
+NaN
+0,1,2,3,4,5,6,7,8,9
+-Infinity
+-
+2
+,
+.
+3
+1
+2
+,
+.
+3
+1
+1
+%
+‰
+Infinity
++
+D,L,Ma,Mi,J,V,S
+ian.,feb.,mar.,apr.,mai.,iun.,iul.,aug.,sep.,oct.,nov.,dec.,
+ian.,feb.,mar.,apr.,mai.,iun.,iul.,aug.,sep.,oct.,nov.,dec.,
+
+0
+.
+duminică,luni,marţi,miercuri,joi,vineri,sâmbătă
+1
+d MMMM yyyy HH:mm:ss
+d MMMM yyyy
+HH:mm:ss
+d MMMM
+ianuarie,februarie,martie,aprilie,mai,iunie,iulie,august,septembrie,octombrie,noiembrie,decembrie,
+ianuarie,februarie,martie,aprilie,mai,iunie,iulie,august,septembrie,octombrie,noiembrie,decembrie,
+calendar Gregorian
+HH:mm:ss
+
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+dd.MM.yyyy
+D,L,Ma,Mi,J,V,S
+HH:mm
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+:
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+MMMM yyyy

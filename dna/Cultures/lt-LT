@@ -1,0 +1,72 @@
+lt-LT
+0x0427
+lt
+Lithuanian (Lithuania)
+lietuvių (Lietuva)
+Lithuanian (Lithuania)
+lt
+lit
+LTH
+GregorianCalendar:Localized
+GregorianCalendar:Localized
+70
+lt-LT
+False
+1257
+500
+False
+;
+10029
+775
+2
+,
+.
+3
+8
+3
+Lt
+1
+NaN
+0,1,2,3,4,5,6,7,8,9
+-begalybė
+-
+2
+,
+.
+3
+1
+2
+,
+.
+3
+1
+1
+%
+‰
+begalybė
++
+Sk,Pr,An,Tr,Kt,Pn,Št
+Sau,Vas,Kov,Bal,Geg,Bir,Lie,Rgp,Rgs,Spl,Lap,Grd,
+Sau,Vas,Kov,Bal,Geg,Bir,Lie,Rgp,Rgs,Spl,Lap,Grd,
+
+0
+.
+sekmadienis,pirmadienis,antradienis,trečiadienis,ketvirtadienis,penktadienis,šeštadienis
+1
+yyyy 'm.' MMMM d 'd.' HH:mm:ss
+yyyy 'm.' MMMM d 'd.'
+HH:mm:ss
+MMMM d 'd.'
+sausio,vasario,kovo,balandžio,gegužės,birželio,liepos,rugpjūčio,rugsėjo,spalio,lapkričio,gruodžio,
+sausis,vasaris,kovas,balandis,gegužė,birželis,liepa,rugpjūtis,rugsėjis,spalis,lapkritis,gruodis,
+Grigaliaus kalendorius
+HH:mm:ss
+
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+yyyy.MM.dd
+S,P,A,T,K,Pn,Š
+HH:mm
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+:
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+yyyy 'm.' MMMM

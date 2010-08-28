@@ -1,0 +1,72 @@
+zh-SG
+0x1004
+zh-CHS
+Chinese (Singapore)
+中文(新加坡)
+Chinese (Singapore)
+zh
+zho
+ZHI
+GregorianCalendar:Localized
+GregorianCalendar:Localized
+70
+zh-SG
+False
+936
+500
+False
+,
+10008
+936
+2
+.
+,
+3
+0
+0
+$
+1
+NaN
+0,1,2,3,4,5,6,7,8,9
+-Infinity
+-
+2
+.
+,
+3
+1
+2
+.
+,
+3
+1
+1
+%
+‰
+Infinity
++
+星期日,星期一,星期二,星期三,星期四,星期五,星期六
+一月,二月,三月,四月,五月,六月,七月,八月,九月,十月,十一月,十二月,
+一月,二月,三月,四月,五月,六月,七月,八月,九月,十月,十一月,十二月,
+AM
+0
+/
+星期日,星期一,星期二,星期三,星期四,星期五,星期六
+0
+dddd, d MMMM, yyyy tt h:mm:ss
+dddd, d MMMM, yyyy
+tt h:mm:ss
+d MMMM
+一月,二月,三月,四月,五月,六月,七月,八月,九月,十月,十一月,十二月,
+一月,二月,三月,四月,五月,六月,七月,八月,九月,十月,十一月,十二月,
+西历
+tt h:mm:ss
+PM
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+d/M/yyyy
+日,一,二,三,四,五,六
+tt h:mm
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+:
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+MMMM, yyyy

@@ -1,0 +1,72 @@
+mi-NZ
+0x0481
+
+Maori (New Zealand)
+Reo Māori (Aotearoa)
+Maori
+mi
+mi
+MRI
+GregorianCalendar:Localized
+GregorianCalendar:Localized
+38
+mi-NZ
+False
+0
+500
+False
+,
+2
+1
+2
+.
+,
+3
+1
+0
+$
+1
+NaN
+0,1,2,3,4,5,6,7,8,9
+-Infinity
+-
+2
+.
+,
+3
+1
+2
+.
+,
+3
+0
+0
+%
+‰
+Infinity
++
+Ta,Ma,Tū,We,Tāi,Pa,Hā
+Kohi,Hui,Pou,Pae,Hara,Pipi,Hōngoi,Here,Mahu,Whi-nu,Whi-ra,Haki,
+Kohi,Hui,Pou,Pae,Hara,Pipi,Hōngoi,Here,Mahu,Whi-nu,Whi-ra,Haki,
+a.m.
+0
+/
+Rātapu,Mane,Tūrei,Wenerei,Tāite,Paraire,Hātarei
+1
+dddd, d MMMM yyyy h:mm:ss tt
+dddd, d MMMM yyyy
+h:mm:ss tt
+MMMM dd
+Kohi-tātea,Hui-tanguru,Poutū-te-rangi,Paenga-whāwhā,Haratua,Pipiri,Hōngoingoi,Here-turi-kōkā,Mahuru,Whiringa-ā-nuku,Whiringa-ā-rangi,Hakihea,
+Kohi-tātea,Hui-tanguru,Poutū-te-rangi,Paenga-whāwhā,Haratua,Pipiri,Hōngoingoi,Here-turi-kōkā,Mahuru,Whiringa-ā-nuku,Whiringa-ā-rangi,Hakihea,
+Gregorian Calendar
+h:mm:ss tt
+p.m.
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+d/MM/yyyy
+Ta,Ma,Tū,We,Tāi,Pa,Hā
+h:mm:ss tt
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+:
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+MMMM yyyy

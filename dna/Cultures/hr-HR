@@ -1,0 +1,72 @@
+hr-HR
+0x041a
+hr
+Croatian (Croatia)
+hrvatski (Hrvatska)
+Croatian (Croatia)
+hr
+hrv
+HRV
+GregorianCalendar:Localized
+GregorianCalendar:Localized
+70
+hr-HR
+False
+1250
+500
+False
+;
+10082
+852
+2
+,
+.
+3
+8
+3
+kn
+1
+NaN
+0,1,2,3,4,5,6,7,8,9
+-Infinity
+-
+2
+,
+.
+3
+2
+2
+,
+.
+3
+1
+1
+%
+‰
+Infinity
++
+ned,pon,uto,sri,čet,pet,sub
+sij,vlj,ožu,tra,svi,lip,srp,kol,ruj,lis,stu,pro,
+sij,vlj,ožu,tra,svi,lip,srp,kol,ruj,lis,stu,pro,
+
+0
+.
+nedjelja,ponedjeljak,utorak,srijeda,četvrtak,petak,subota
+1
+d. MMMM yyyy H:mm:ss
+d. MMMM yyyy
+H:mm:ss
+d. MMMM
+siječanj,veljača,ožujak,travanj,svibanj,lipanj,srpanj,kolovoz,rujan,listopad,studeni,prosinac,
+siječanj,veljača,ožujak,travanj,svibanj,lipanj,srpanj,kolovoz,rujan,listopad,studeni,prosinac,
+gregorijanski kalendar
+H:mm:ss
+
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+d.M.yyyy
+ne,po,ut,sr,če,pe,su
+H:mm
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+:
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+MMMM, yyyy

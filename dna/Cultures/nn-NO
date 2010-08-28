@@ -1,0 +1,72 @@
+nn-NO
+0x0814
+no
+Norwegian, Nynorsk (Norway)
+norsk, nynorsk (Noreg)
+Norwegian, Nynorsk (Norway)
+nn
+nno
+NON
+GregorianCalendar:Localized
+GregorianCalendar:Localized
+70
+nn-NO
+False
+1252
+20277
+False
+;
+10000
+850
+2
+,
+ 
+3
+12
+2
+kr
+1
+NaN
+0,1,2,3,4,5,6,7,8,9
+-INF
+-
+2
+,
+ 
+3
+1
+2
+,
+ 
+3
+0
+0
+%
+‰
+INF
++
+sø,må,ty,on,to,fr,la
+jan,feb,mar,apr,mai,jun,jul,aug,sep,okt,nov,des,
+jan,feb,mar,apr,mai,jun,jul,aug,sep,okt,nov,des,
+
+2
+.
+søndag,måndag,tysdag,onsdag,torsdag,fredag,laurdag
+1
+d. MMMM yyyy HH:mm:ss
+d. MMMM yyyy
+HH:mm:ss
+d. MMMM
+januar,februar,mars,april,mai,juni,juli,august,september,oktober,november,desember,
+januar,februar,mars,april,mai,juni,juli,august,september,oktober,november,desember,
+gregoriansk kalender
+HH:mm:ss
+
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+dd.MM.yyyy
+sø,må,ty,on,to,fr,la
+HH:mm
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+:
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+MMMM yyyy

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dna", "dna\dna.vcproj", "{888AAA01-F58E-4E41-8BBB-78294D9DABF7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libIGraph", "libIGraph\libIGraph.vcproj", "{E8C90D0B-0F97-485C-8765-FC14202EF252}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{888AAA01-F58E-4E41-8BBB-78294D9DABF7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{888AAA01-F58E-4E41-8BBB-78294D9DABF7}.Debug|Win32.Build.0 = Debug|Win32
+		{888AAA01-F58E-4E41-8BBB-78294D9DABF7}.Release|Win32.ActiveCfg = Release|Win32
+		{888AAA01-F58E-4E41-8BBB-78294D9DABF7}.Release|Win32.Build.0 = Release|Win32
+		{E8C90D0B-0F97-485C-8765-FC14202EF252}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E8C90D0B-0F97-485C-8765-FC14202EF252}.Debug|Win32.Build.0 = Debug|Win32
+		{E8C90D0B-0F97-485C-8765-FC14202EF252}.Release|Win32.ActiveCfg = Release|Win32
+		{E8C90D0B-0F97-485C-8765-FC14202EF252}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

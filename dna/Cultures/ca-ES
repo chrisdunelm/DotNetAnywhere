@@ -1,0 +1,72 @@
+ca-ES
+0x0403
+ca
+Catalan (Catalan)
+català (català)
+Catalan (Catalan)
+ca
+cat
+CAT
+GregorianCalendar:Localized
+GregorianCalendar:Localized
+70
+ca-ES
+False
+1252
+500
+False
+;
+10000
+850
+2
+,
+.
+3
+8
+3
+€
+1
+NeuN
+0,1,2,3,4,5,6,7,8,9
+-Infinit
+-
+2
+,
+.
+3
+1
+2
+,
+.
+3
+0
+0
+%
+‰
+Infinit
++
+dg.,dl.,dt.,dc.,dj.,dv.,ds.
+gen,feb,març,abr,maig,juny,jul,ag,set,oct,nov,des,
+gen,feb,març,abr,maig,juny,jul,ag,set,oct,nov,des,
+
+0
+/
+diumenge,dilluns,dimarts,dimecres,dijous,divendres,dissabte
+1
+dddd, d' / 'MMMM' / 'yyyy HH:mm:ss
+dddd, d' / 'MMMM' / 'yyyy
+HH:mm:ss
+dd MMMM
+gener,febrer,març,abril,maig,juny,juliol,agost,setembre,octubre,novembre,desembre,
+gener,febrer,març,abril,maig,juny,juliol,agost,setembre,octubre,novembre,desembre,
+calendari gregorià
+HH:mm:ss
+
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+dd/MM/yyyy
+dg,dl,dt,dc,dj,dv,ds
+HH:mm
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+:
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+MMMM' / 'yyyy

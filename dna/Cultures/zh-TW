@@ -1,0 +1,72 @@
+zh-TW
+0x0404
+zh-CHT
+Chinese (Taiwan)
+中文(台灣)
+Chinese (Taiwan)
+zh
+zho
+CHT
+GregorianCalendar:Localized
+GregorianCalendar:Localized,GregorianCalendar:USEnglish,TaiwanCalendar
+70
+zh-TW
+False
+950
+500
+False
+,
+10002
+950
+2
+.
+,
+3
+1
+0
+NT$
+1
+不是一個數字
+0,1,2,3,4,5,6,7,8,9
+負無窮大
+-
+2
+.
+,
+3
+1
+2
+.
+,
+3
+1
+1
+%
+‰
+正無窮大
++
+星期日,星期一,星期二,星期三,星期四,星期五,星期六
+一月,二月,三月,四月,五月,六月,七月,八月,九月,十月,十一月,十二月,
+一月,二月,三月,四月,五月,六月,七月,八月,九月,十月,十一月,十二月,
+上午
+0
+/
+星期日,星期一,星期二,星期三,星期四,星期五,星期六
+0
+yyyy'年'M'月'd'日' tt hh:mm:ss
+yyyy'年'M'月'd'日'
+tt hh:mm:ss
+M'月'd'日'
+一月,二月,三月,四月,五月,六月,七月,八月,九月,十月,十一月,十二月,
+一月,二月,三月,四月,五月,六月,七月,八月,九月,十月,十一月,十二月,
+西曆 (中文)
+tt hh:mm:ss
+下午
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+yyyy/M/d
+日,一,二,三,四,五,六
+tt hh:mm
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+:
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+yyyy'年'M'月'

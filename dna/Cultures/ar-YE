@@ -1,0 +1,72 @@
+ar-YE
+0x2401
+ar
+Arabic (Yemen)
+العربية (اليمن)
+Arabic (Yemen)
+ar
+ara
+ARY
+GregorianCalendar:Localized
+GregorianCalendar:Localized,UmAlQuraCalendar,HijriCalendar,GregorianCalendar:USEnglish,GregorianCalendar:MiddleEastFrench,GregorianCalendar:Arabic,GregorianCalendar:TransliteratedFrench
+70
+ar-YE
+False
+1256
+20420
+True
+;
+10004
+720
+2
+.
+,
+3
+3
+2
+ر.ي.‏
+0
+ليس برقم
+٠,١,٢,٣,٤,٥,٦,٧,٨,٩
+-لا نهاية
+-
+2
+.
+,
+3
+3
+2
+.
+,
+3
+0
+0
+%
+‰
++لا نهاية
++
+الاحد,الاثنين,الثلاثاء,الاربعاء,الخميس,الجمعة,السبت
+يناير,فبراير,مارس,ابريل,مايو,يونيو,يوليو,اغسطس,سبتمبر,اكتوبر,نوفمبر,ديسمبر,
+يناير,فبراير,مارس,ابريل,مايو,يونيو,يوليو,اغسطس,سبتمبر,اكتوبر,نوفمبر,ديسمبر,
+ص
+0
+/
+الاحد,الاثنين,الثلاثاء,الاربعاء,الخميس,الجمعة,السبت
+6
+dd MMMM, yyyy hh:mm:ss tt
+dd MMMM, yyyy
+hh:mm:ss tt
+dd MMMM
+يناير,فبراير,مارس,ابريل,مايو,يونيو,يوليو,اغسطس,سبتمبر,اكتوبر,نوفمبر,ديسمبر,
+يناير,فبراير,مارس,ابريل,مايو,يونيو,يوليو,اغسطس,سبتمبر,اكتوبر,نوفمبر,ديسمبر,
+التقويم الميلادي (تسمية إنجليزية)‏
+hh:mm:ss tt
+م
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+dd/MM/yyyy
+أ,ا,ث,أ,خ,ج,س
+hh:mm tt
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+:
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+MMMM, yyyy

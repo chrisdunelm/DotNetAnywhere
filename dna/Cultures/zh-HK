@@ -1,0 +1,72 @@
+zh-HK
+0x0c04
+zh-CHT
+Chinese (Hong Kong S.A.R.)
+中文(香港特别行政區)
+Chinese (Hong Kong S.A.R.)
+zh
+zho
+ZHH
+GregorianCalendar:Localized
+GregorianCalendar:Localized
+70
+zh-HK
+False
+950
+500
+False
+,
+10002
+950
+2
+.
+,
+3
+0
+0
+HK$
+1
+NaN
+0,1,2,3,4,5,6,7,8,9
+-Infinity
+-
+2
+.
+,
+3
+1
+2
+.
+,
+3
+1
+1
+%
+‰
+Infinity
++
+Sun,Mon,Tue,Wed,Thu,Fri,Sat
+Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,
+Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,
+
+0
+/
+Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday
+0
+dddd, d MMMM, yyyy H:mm:ss
+dddd, d MMMM, yyyy
+H:mm:ss
+d MMMM
+January,February,March,April,May,June,July,August,September,October,November,December,
+January,February,March,April,May,June,July,August,September,October,November,December,
+日曆
+H:mm:ss
+
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+d/M/yyyy
+Su,Mo,Tu,We,Th,Fr,Sa
+H:mm
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+:
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+MMMM, yyyy

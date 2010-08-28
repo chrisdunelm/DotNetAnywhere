@@ -1,0 +1,72 @@
+is-IS
+0x040f
+is
+Icelandic (Iceland)
+íslenska (Ísland)
+Icelandic (Iceland)
+is
+isl
+ISL
+GregorianCalendar:Localized
+GregorianCalendar:Localized
+70
+is-IS
+False
+1252
+20871
+False
+;
+10079
+850
+0
+,
+.
+3
+8
+3
+kr.
+1
+NaN
+0,1,2,3,4,5,6,7,8,9
+-INF
+-
+2
+,
+.
+3
+1
+2
+,
+.
+3
+1
+1
+%
+‰
+INF
++
+sun.,mán.,þri.,mið.,fim.,fös.,lau.
+jan.,feb.,mar.,apr.,maí,jún.,júl.,ágú.,sep.,okt.,nóv.,des.,
+jan.,feb.,mar.,apr.,maí,jún.,júl.,ágú.,sep.,okt.,nóv.,des.,
+
+2
+.
+sunnudagur,mánudagur,þriðjudagur,miðvikudagur,fimmtudagur,föstudagur,laugardagur
+1
+d. MMMM yyyy HH:mm:ss
+d. MMMM yyyy
+HH:mm:ss
+d. MMMM
+janúar,febrúar,mars,apríl,maí,júní,júlí,ágúst,september,október,nóvember,desember,
+janúar,febrúar,mars,apríl,maí,júní,júlí,ágúst,september,október,nóvember,desember,
+gregorískt tímatal
+HH:mm:ss
+
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+d.M.yyyy
+su,má,þr,mi,fi,fö,la
+HH:mm
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+:
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+MMMM yyyy

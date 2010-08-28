@@ -1,0 +1,72 @@
+nl-NL
+0x0413
+nl
+Dutch (Netherlands)
+Nederlands (Nederland)
+Dutch (Netherlands)
+nl
+nld
+NLD
+GregorianCalendar:Localized
+GregorianCalendar:Localized
+70
+nl-NL
+False
+1252
+500
+False
+;
+10000
+850
+2
+,
+.
+3
+12
+2
+€
+1
+NaN
+0,1,2,3,4,5,6,7,8,9
+-Infinity
+-
+2
+,
+.
+3
+1
+2
+,
+.
+3
+0
+0
+%
+‰
+Infinity
++
+zo,ma,di,wo,do,vr,za
+jan,feb,mrt,apr,mei,jun,jul,aug,sep,okt,nov,dec,
+jan,feb,mrt,apr,mei,jun,jul,aug,sep,okt,nov,dec,
+
+2
+-
+zondag,maandag,dinsdag,woensdag,donderdag,vrijdag,zaterdag
+1
+dddd d MMMM yyyy H:mm:ss
+dddd d MMMM yyyy
+H:mm:ss
+dd MMMM
+januari,februari,maart,april,mei,juni,juli,augustus,september,oktober,november,december,
+januari,februari,maart,april,mei,juni,juli,augustus,september,oktober,november,december,
+Gregoriaanse kalender
+H:mm:ss
+
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+d-M-yyyy
+zo,ma,di,wo,do,vr,za
+H:mm
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+:
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+MMMM yyyy

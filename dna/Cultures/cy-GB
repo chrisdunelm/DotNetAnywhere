@@ -1,0 +1,72 @@
+cy-GB
+0x0452
+
+Welsh (United Kingdom)
+Cymraeg (y Deyrnas Unedig)
+Welsh
+cy
+cy
+CYM
+GregorianCalendar:Localized
+GregorianCalendar:Localized
+38
+cy-GB
+False
+1252
+20285
+False
+,
+10000
+850
+2
+.
+,
+3
+1
+0
+£
+1
+NaN
+0,1,2,3,4,5,6,7,8,9
+-Infinity
+-
+2
+.
+,
+3
+1
+2
+.
+,
+3
+0
+0
+%
+‰
+Infinity
++
+Sul,Llun,Maw,Mer,Iau,Gwe,Sad
+Ion,Chwe,Maw,Ebr,Mai,Meh,Gor,Aws,Med,Hyd,Tach,Rhag,
+Ion,Chwe,Maw,Ebr,Mai,Meh,Gor,Aws,Med,Hyd,Tach,Rhag,
+a.m.
+0
+/
+Dydd Sul,Dydd Llun,Dydd Mawrth,Dydd Mercher,Dydd Iau,Dydd Gwener,Dydd Sadwrn
+1
+dd MMMM yyyy HH:mm:ss
+dd MMMM yyyy
+HH:mm:ss
+MMMM dd
+Ionawr,Chwefror,Mawrth,Ebrill,Mai,Mehefin,Gorffennaf,Awst,Medi,Hydref,Tachwedd,Rhagfyr,
+Ionawr,Chwefror,Mawrth,Ebrill,Mai,Mehefin,Gorffennaf,Awst,Medi,Hydref,Tachwedd,Rhagfyr,
+calendr Gregori
+HH:mm:ss
+p.m.
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+dd/MM/yyyy
+Sul,Llun,Maw,Mer,Iau,Gwe,Sad
+HH:mm:ss
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+:
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+MMMM yyyy

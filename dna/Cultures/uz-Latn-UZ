@@ -1,0 +1,72 @@
+uz-Latn-UZ
+0x0443
+uz
+Uzbek (Latin, Uzbekistan)
+U'zbek (U'zbekiston Respublikasi)
+Uzbek (Latin, Uzbekistan)
+uz
+uzb
+UZB
+GregorianCalendar:Localized
+GregorianCalendar:Localized
+70
+uz-Latn-UZ
+False
+1254
+500
+False
+;
+10029
+857
+0
+,
+ 
+3
+8
+3
+su'm
+1
+NaN
+0,1,2,3,4,5,6,7,8,9
+-Infinity
+-
+2
+,
+ 
+3
+1
+2
+,
+ 
+3
+1
+1
+%
+‰
+Infinity
++
+yak.,dsh.,sesh.,chr.,psh.,jm.,sh.
+yanvar,fevral,mart,aprel,may,iyun,iyul,avgust,sentyabr,oktyabr,noyabr,dekabr,
+yanvar,fevral,mart,aprel,may,iyun,iyul,avgust,sentyabr,oktyabr,noyabr,dekabr,
+
+0
+/
+yakshanba,dushanba,seshanba,chorshanba,payshanba,juma,shanba
+1
+yyyy 'yil' d-MMMM HH:mm:ss
+yyyy 'yil' d-MMMM
+HH:mm:ss
+d-MMMM
+yanvar,fevral,mart,aprel,may,iyun,iyul,avgust,sentyabr,oktyabr,noyabr,dekabr,
+yanvar,fevral,mart,aprel,may,iyun,iyul,avgust,sentyabr,oktyabr,noyabr,dekabr,
+Grigorianski
+HH:mm:ss
+
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+dd/MM yyyy
+yak,dsh,sesh,chr,psh,jm,sh
+HH:mm
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+:
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+MMMM yyyy

@@ -1,0 +1,72 @@
+vi-VN
+0x042a
+vi
+Vietnamese (Vietnam)
+Tiếng Việt (Việt Nam)
+Vietnamese (Vietnam)
+vi
+vie
+VIT
+GregorianCalendar:Localized
+GregorianCalendar:Localized
+70
+vi-VN
+False
+1258
+500
+False
+,
+10000
+1258
+2
+,
+.
+3
+8
+3
+₫
+1
+NaN
+0,1,2,3,4,5,6,7,8,9
+-Infinity
+-
+2
+,
+.
+3
+1
+2
+,
+.
+3
+0
+0
+%
+‰
+Infinity
++
+CN,Hai,Ba,Tư,Năm,Sáu,Bảy
+Thg1,Thg2,Thg3,Thg4,Thg5,Thg6,Thg7,Thg8,Thg9,Thg10,Thg11,Thg12,
+Thg1,Thg2,Thg3,Thg4,Thg5,Thg6,Thg7,Thg8,Thg9,Thg10,Thg11,Thg12,
+SA
+0
+/
+Chủ Nhật,Thứ Hai,Thứ Ba,Thứ Tư,Thứ Năm,Thứ Sáu,Thứ Bảy
+1
+dd MMMM yyyy h:mm:ss tt
+dd MMMM yyyy
+h:mm:ss tt
+dd MMMM
+Tháng Giêng,Tháng Hai,Tháng Ba,Tháng Tư,Tháng Năm,Tháng Sáu,Tháng Bảy,Tháng Tám,Tháng Chín,Tháng Mười,Tháng Mười Một,Tháng Mười Hai,
+Tháng Giêng,Tháng Hai,Tháng Ba,Tháng Tư,Tháng Năm,Tháng Sáu,Tháng Bảy,Tháng Tám,Tháng Chín,Tháng Mười,Tháng Mười Một,Tháng Mười Hai,
+Dương Lịch
+h:mm:ss tt
+CH
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+dd/MM/yyyy
+C,H,B,T,N,S,B
+h:mm tt
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+:
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+MMMM yyyy

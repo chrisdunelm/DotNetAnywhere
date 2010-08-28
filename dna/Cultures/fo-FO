@@ -1,0 +1,72 @@
+fo-FO
+0x0438
+fo
+Faroese (Faroe Islands)
+føroyskt (Føroyar)
+Faroese (Faroe Islands)
+fo
+fao
+FOS
+GregorianCalendar:Localized
+GregorianCalendar:Localized
+70
+fo-FO
+False
+1252
+20277
+False
+;
+10079
+850
+2
+,
+.
+3
+12
+2
+kr
+1
+NaN
+0,1,2,3,4,5,6,7,8,9
+-INF
+-
+2
+,
+.
+3
+1
+2
+,
+.
+3
+1
+1
+%
+‰
+INF
++
+sun,mán,týs,mik,hós,frí,leyg
+jan,feb,mar,apr,mai,jun,jul,aug,sep,okt,nov,des,
+jan,feb,mar,apr,mai,jun,jul,aug,sep,okt,nov,des,
+
+2
+-
+sunnudagur,mánadagur,týsdagur,mikudagur,hósdagur,fríggjadagur,leygardagur
+1
+d. MMMM yyyy HH.mm.ss
+d. MMMM yyyy
+HH.mm.ss
+d. MMMM
+januar,februar,mars,apríl,mai,juni,juli,august,september,oktober,november,desember,
+januar,februar,mars,apríl,mai,juni,juli,august,september,oktober,november,desember,
+Gregorianski álmanakkin
+HH.mm.ss
+
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+dd-MM-yyyy
+su,má,tý,mi,hó,fr,ley
+HH.mm
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+.
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+MMMM yyyy

@@ -1,0 +1,72 @@
+fi-FI
+0x040b
+fi
+Finnish (Finland)
+suomi (Suomi)
+Finnish (Finland)
+fi
+fin
+FIN
+GregorianCalendar:Localized
+GregorianCalendar:Localized
+70
+fi-FI
+False
+1252
+20278
+False
+;
+10000
+850
+2
+,
+ 
+3
+8
+3
+€
+1
+NaN
+0,1,2,3,4,5,6,7,8,9
+-INF
+-
+2
+,
+ 
+3
+1
+2
+,
+ 
+3
+0
+0
+%
+‰
+INF
++
+su,ma,ti,ke,to,pe,la
+tammi,helmi,maalis,huhti,touko,kesä,heinä,elo,syys,loka,marras,joulu,
+tammi,helmi,maalis,huhti,touko,kesä,heinä,elo,syys,loka,marras,joulu,
+
+2
+.
+sunnuntai,maanantai,tiistai,keskiviikko,torstai,perjantai,lauantai
+1
+d. MMMM'ta 'yyyy H:mm:ss
+d. MMMM'ta 'yyyy
+H:mm:ss
+d. MMMM'ta'
+tammikuu,helmikuu,maaliskuu,huhtikuu,toukokuu,kesäkuu,heinäkuu,elokuu,syyskuu,lokakuu,marraskuu,joulukuu,
+tammikuu,helmikuu,maaliskuu,huhtikuu,toukokuu,kesäkuu,heinäkuu,elokuu,syyskuu,lokakuu,marraskuu,joulukuu,
+gregoriaaninen kalenteri
+H:mm:ss
+
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+d.M.yyyy
+su,ma,ti,ke,to,pe,la
+H:mm
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+:
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+MMMM yyyy

@@ -1,0 +1,72 @@
+eu-ES
+0x042d
+eu
+Basque (Basque)
+euskara (euskara)
+Basque (Basque)
+eu
+eus
+EUQ
+GregorianCalendar:Localized
+GregorianCalendar:Localized
+70
+eu-ES
+False
+1252
+500
+False
+;
+10000
+850
+2
+,
+.
+3
+8
+3
+€
+1
+EdZ
+0,1,2,3,4,5,6,7,8,9
+-Infinitu
+-
+2
+,
+.
+3
+1
+2
+,
+.
+3
+0
+0
+%
+‰
+Infinitu
++
+ig.,al.,as.,az.,og.,or.,lr.
+urt.,ots.,mar.,api.,mai.,eka.,uzt.,abu.,ira.,urr.,aza.,abe.,
+urt.,ots.,mar.,api.,mai.,eka.,uzt.,abu.,ira.,urr.,aza.,abe.,
+
+0
+/
+igandea,astelehena,asteartea,asteazkena,osteguna,ostirala,larunbata
+1
+dddd, yyyy.'eko' MMMM'k 'd HH:mm:ss
+dddd, yyyy.'eko' MMMM'k 'd
+HH:mm:ss
+MMMM dd
+urtarrila,otsaila,martxoa,apirila,maiatza,ekaina,uztaila,abuztua,iraila,urria,azaroa,abendua,
+urtarrila,otsaila,martxoa,apirila,maiatza,ekaina,uztaila,abuztua,iraila,urria,azaroa,abendua,
+egutegi gregoriotarra
+HH:mm:ss
+
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+yyyy/MM/dd
+ig,al,as,az,og,or,lr
+HH:mm
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+:
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+yyyy.'eko' MMMM

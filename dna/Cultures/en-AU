@@ -1,0 +1,72 @@
+en-AU
+0x0c09
+en
+English (Australia)
+English (Australia)
+English (Australia)
+en
+eng
+ENA
+GregorianCalendar:Localized
+GregorianCalendar:Localized,GregorianCalendar:USEnglish
+70
+en-AU
+False
+1252
+500
+False
+,
+10000
+850
+2
+.
+,
+3
+1
+0
+$
+1
+NaN
+0,1,2,3,4,5,6,7,8,9
+-Infinity
+-
+2
+.
+,
+3
+1
+2
+.
+,
+3
+0
+0
+%
+‰
+Infinity
++
+Sun,Mon,Tue,Wed,Thu,Fri,Sat
+Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,
+Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,
+AM
+0
+/
+Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday
+1
+dddd, d MMMM yyyy h:mm:ss tt
+dddd, d MMMM yyyy
+h:mm:ss tt
+dd MMMM
+January,February,March,April,May,June,July,August,September,October,November,December,
+January,February,March,April,May,June,July,August,September,October,November,December,
+Gregorian Calendar
+h:mm:ss tt
+PM
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+d/MM/yyyy
+Su,Mo,Tu,We,Th,Fr,Sa
+h:mm tt
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+:
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+MMMM yyyy

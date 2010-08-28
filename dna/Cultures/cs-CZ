@@ -1,0 +1,72 @@
+cs-CZ
+0x0405
+cs
+Czech (Czech Republic)
+čeština (Česká republika)
+Czech (Czech Republic)
+cs
+ces
+CSY
+GregorianCalendar:Localized
+GregorianCalendar:Localized
+70
+cs-CZ
+False
+1250
+500
+False
+;
+10029
+852
+2
+,
+ 
+3
+8
+3
+Kč
+1
+Není číslo
+0,1,2,3,4,5,6,7,8,9
+-nekonečno
+-
+2
+,
+ 
+3
+1
+2
+,
+ 
+3
+1
+1
+%
+‰
++nekonečno
++
+ne,po,út,st,čt,pá,so
+I,II,III,IV,V,VI,VII,VIII,IX,X,XI,XII,
+I,II,III,IV,V,VI,VII,VIII,IX,X,XI,XII,
+dop.
+0
+.
+neděle,pondělí,úterý,středa,čtvrtek,pátek,sobota
+1
+d. MMMM yyyy H:mm:ss
+d. MMMM yyyy
+H:mm:ss
+dd MMMM
+ledna,února,března,dubna,května,června,července,srpna,září,října,listopadu,prosince,
+leden,únor,březen,duben,květen,červen,červenec,srpen,září,říjen,listopad,prosinec,
+gregoriánský kalendář
+H:mm:ss
+odp.
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+d.M.yyyy
+ne,po,út,st,čt,pá,so
+H:mm
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+:
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+MMMM yyyy

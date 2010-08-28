@@ -1,0 +1,72 @@
+sr-Latn-BA
+0x181a
+
+Serbian (Latin) (Bosnia and Herzegovina)
+srpski (Bosna i Hercegovina)
+Serbian (Latin, Bosnia and Herzegovina)
+sr
+sr
+SRS
+GregorianCalendar:Localized
+GregorianCalendar:Localized
+38
+sr-Latn-BA
+False
+1250
+870
+False
+;
+10082
+852
+2
+,
+.
+3
+8
+3
+KM
+1
+NaN
+0,1,2,3,4,5,6,7,8,9
+-Infinity
+-
+2
+,
+.
+3
+1
+2
+,
+.
+3
+0
+0
+%
+‰
+Infinity
++
+ned,pon,uto,sre,čet,pet,sub
+jan,feb,mar,apr,maj,jun,jul,avg,sep,okt,nov,dec,
+jan,feb,mar,apr,maj,jun,jul,avg,sep,okt,nov,dec,
+
+0
+.
+nedelja,ponedeljak,utorak,sreda,četvrtak,petak,subota
+1
+d. MMMM yyyy H:mm:ss
+d. MMMM yyyy
+H:mm:ss
+MMMM dd
+januar,februar,mart,april,maj,jun,jul,avgust,septembar,oktobar,novembar,decembar,
+januar,februar,mart,april,maj,jun,jul,avgust,septembar,oktobar,novembar,decembar,
+gregorijanski kalendar
+H:mm:ss
+
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+d.M.yyyy
+ned,pon,uto,sre,čet,pet,sub
+H:mm:ss
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+:
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+MMMM yyyy

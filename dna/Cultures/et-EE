@@ -1,0 +1,72 @@
+et-EE
+0x0425
+et
+Estonian (Estonia)
+eesti (Eesti)
+Estonian (Estonia)
+et
+est
+ETI
+GregorianCalendar:Localized
+GregorianCalendar:Localized
+70
+et-EE
+False
+1257
+500
+False
+;
+10029
+775
+2
+.
+ 
+3
+8
+3
+kr
+1
+avaldamatu
+0,1,2,3,4,5,6,7,8,9
+miinuslõpmatus
+-
+2
+,
+ 
+3
+1
+2
+,
+ 
+3
+1
+1
+%
+‰
+plusslõpmatus
++
+P,E,T,K,N,R,L
+jaan,veebr,märts,apr,mai,juuni,juuli,aug,sept,okt,nov,dets,
+jaan,veebr,märts,apr,mai,juuni,juuli,aug,sept,okt,nov,dets,
+EL
+2
+.
+pühapäev,esmaspäev,teisipäev,kolmapäev,neljapäev,reede,laupäev
+1
+d. MMMM yyyy'. a.' H:mm:ss
+d. MMMM yyyy'. a.'
+H:mm:ss
+d. MMMM
+jaanuar,veebruar,märts,aprill,mai,juuni,juuli,august,september,oktoober,november,detsember,
+jaanuar,veebruar,märts,aprill,mai,juuni,juuli,august,september,oktoober,november,detsember,
+Gregoriuse kalender
+H:mm:ss
+PL
+ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+d.MM.yyyy
+P,E,T,K,N,R,L
+H:mm
+yyyy'-'MM'-'dd'T'HH':'mm':'ss
+:
+yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+MMMM yyyy'. a.'
