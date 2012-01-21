@@ -6,9 +6,11 @@ namespace System {
 		public const short MaxValue = 0x7fff;
 		public const short MinValue = -32768;
 
-		internal short m_value;
+#pragma warning disable 0169, 0649
+        internal short m_value;
+#pragma warning restore 0169, 0649
 
-		public override bool Equals(object obj) {
+        public override bool Equals(object obj) {
 			return (obj is short) && ((short)obj).m_value == this.m_value;
 		}
 

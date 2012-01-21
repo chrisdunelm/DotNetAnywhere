@@ -6,9 +6,11 @@ using System.Globalization;
 namespace System.Threading {
 	public sealed class Thread {
 
-		// These member vars MUST be synced with C code.
-		private int managedThreadID = 0;
+        // These member vars MUST be synced with C code.
+#pragma warning disable 0169, 0649
+        private int managedThreadID = 0;
 		private MulticastDelegate threadStart = null;
+#pragma warning restore 0169, 0649
 		private object param = null;
 		private ThreadState threadState = ThreadState.Unstarted;
 

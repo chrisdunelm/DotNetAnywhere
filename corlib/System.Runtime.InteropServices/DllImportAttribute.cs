@@ -1,6 +1,8 @@
 #if !LOCALTEST
 
 namespace System.Runtime.InteropServices {
+
+    [AttributeUsage(AttributeTargets.Method)]
 	public class DllImportAttribute : Attribute {
 
 		// Sync with C code

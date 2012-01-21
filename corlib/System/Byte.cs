@@ -6,9 +6,11 @@ namespace System {
 		public const byte MinValue = 0;
 		public const byte MaxValue = 255;
 
-		internal byte m_value;
+#pragma warning disable 0169, 0649
+        internal byte m_value;
+#pragma warning restore 0169, 0649
 
-		public override bool Equals(object obj) {
+        public override bool Equals(object obj) {
 			return (obj is byte) && ((byte)obj).m_value == this.m_value;
 		}
 

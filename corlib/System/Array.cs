@@ -140,10 +140,12 @@ namespace System {
 
 		#endregion
 
-		// This must be the only field, as it ties up with the Array definition in InterNet2
-		private int length;
+        // This must be the only field, as it ties up with the Array definition in DNA
+#pragma warning disable 0169, 0649
+        private int length;
+#pragma warning restore 0169, 0649
 
-		public int Length {
+        public int Length {
 			get {
 				return this.length;
 			}

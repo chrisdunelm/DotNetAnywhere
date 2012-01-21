@@ -1,7 +1,7 @@
-Builds
 bin
 obj
 Debug
+Release
 *.ncb
 *.suo
 *.user
@@ -10,3 +10,7 @@ Debug
 *.xml
 *.nupkg
 *.svn
+*.opensdf
+*.sdf
+*.vcxproj
+*.vcxproj.filters

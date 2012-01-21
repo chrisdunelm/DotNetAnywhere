@@ -3,7 +3,9 @@
 namespace System.IO {
 	public sealed class FileInfo : FileSystemInfo {
 
+#pragma warning disable 0169
 		private bool exists;
+#pragma warning restore 0169
 
 		public FileInfo(string path) {
 			CheckPath(path);
