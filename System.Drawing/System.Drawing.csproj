@@ -1,0 +1,130 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0F7F935F-E3F5-40AD-BD22-0BA43721560F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>System.Drawing</RootNamespace>
+    <AssemblyName>System.Drawing</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="System.Drawing.Drawing2D\HatchBrush.cs" />
+    <Compile Include="System.Drawing.Drawing2D\HatchStyle.cs" />
+    <Compile Include="System.Drawing.Drawing2D\LinearGradientBrush.cs" />
+    <Compile Include="System.Drawing.Drawing2D\WrapMode.cs" />
+    <Compile Include="System.Drawing.Imaging\PixelFormat.cs" />
+    <Compile Include="System.Drawing.Text\TextRenderingHint.cs" />
+    <Compile Include="System.Drawing\Bitmap.cs" />
+    <Compile Include="System.Drawing\Brush.cs" />
+    <Compile Include="System.Drawing\Brushes.cs" />
+    <Compile Include="System.Drawing\Color.cs" />
+    <Compile Include="System.Drawing\Font.cs" />
+    <Compile Include="System.Drawing\FontFamily.cs" />
+    <Compile Include="System.Drawing\FontStyle.cs" />
+    <Compile Include="System.Drawing\Graphics.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="System.Drawing\Image.cs" />
+    <Compile Include="System.Drawing\KnownColor.cs" />
+    <Compile Include="System.Drawing\KnownColors.cs" />
+    <Compile Include="System.Drawing\LibIGraph.cs" />
+    <Compile Include="System.Drawing\Pen.cs" />
+    <Compile Include="System.Drawing\Pens.cs" />
+    <Compile Include="System.Drawing\Point.cs" />
+    <Compile Include="System.Drawing\PointF.cs" />
+    <Compile Include="System.Drawing\Rectangle.cs" />
+    <Compile Include="System.Drawing\RectangleF.cs" />
+    <Compile Include="System.Drawing\Region.cs" />
+    <Compile Include="System.Drawing\Size.cs" />
+    <Compile Include="System.Drawing\SizeF.cs" />
+    <Compile Include="System.Drawing\SolidBrush.cs" />
+    <Compile Include="System.Drawing\StringAlignment.cs" />
+    <Compile Include="System.Drawing\StringFormat.cs" />
+    <Compile Include="System.Drawing\StringFormatFlags.cs" />
+    <Compile Include="System.Drawing\StringTrimming.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PostBuildEvent>copy $(TargetPath) $(SolutionDir)\Builds\$(ConfigurationName)\</PostBuildEvent>
+  </PropertyGroup>
+</Project>
