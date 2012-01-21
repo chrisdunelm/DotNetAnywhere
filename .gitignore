@@ -1,0 +1,11 @@
+Builds
+bin
+obj
+Debug
+*.ncb
+*.suo
+*.user
+*.pidb
+*.userprefs
+*.xml
+*.nupkg
