@@ -248,7 +248,7 @@ namespace Snake {
 			return Math.Max(Math.Abs(dx), Math.Abs(dy));
 		}
 
-		public void AddObsticle() {
+		public void AddObstacle() {
 			Point[] obs;
 			for (; ; ) {
 				int x = this.rnd.Next(this.numCellsX - 1);

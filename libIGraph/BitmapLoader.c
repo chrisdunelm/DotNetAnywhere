@@ -635,7 +635,6 @@ tBitmap* BitmapFromFile_(STRING filename, I32 *pWidth, I32 *pHeight, U32 *pPixel
 		// It's a bmp file
 		printf("BMP\n");
 		pBmp = LoadBMP(pFile, pWidth, pHeight, pPixelFormat);
-	printf("1\n");
 	}
 	else
 	if (pFile[0] == 'G' && pFile[1] == 'I' && pFile[2] == 'F') {
@@ -647,10 +646,8 @@ tBitmap* BitmapFromFile_(STRING filename, I32 *pWidth, I32 *pHeight, U32 *pPixel
 		// It's a JPEG file
 		pBmp = LoadJPEG(pFile, fileSize, pWidth, pHeight, pPixelFormat);
 	}
-	printf("2\n");
 
 	free(pFile);
-	printf("3\n");
 
 	return pBmp;
 }

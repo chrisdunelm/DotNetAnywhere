@@ -97,7 +97,7 @@ namespace Snake {
 				}
 				r = rnd.Next(1000);
 				if (r < 20) {
-					snakePit.AddObsticle();
+					snakePit.AddObstacle();
 				}
 			}
 			snakePit.Msg(crashType.ToString());

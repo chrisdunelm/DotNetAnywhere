@@ -82,7 +82,7 @@ namespace System {
 					break;
 			}
 
-			return str + " " + this.version.ToString() + " (InterNet2)";
+			return str + " " + this.version.ToString() + " (DNA)";
 		}
 
 		#region ICloneable Members

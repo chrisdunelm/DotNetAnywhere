@@ -25,14 +25,14 @@ using System.Text;
 namespace CustomDevice {
 	static class Utils {
 
-		private static bool isInterNet2, isInterNet2Set = false;
+		private static bool isDNA, isDNASet = false;
 		public static bool IsInterNet2 {
 			get {
-				if (!isInterNet2Set) {
-					isInterNet2 = Environment.OSVersion.VersionString.EndsWith("(InterNet2)");
-					isInterNet2Set = true;
+				if (!isDNASet) {
+					isDNA = Environment.OSVersion.VersionString.EndsWith("(DNA)");
+					isDNASet = true;
 				}
-				return isInterNet2;
+				return isDNA;
 			}
 		}
 

@@ -283,6 +283,6 @@
   </Target>
   -->
   <PropertyGroup>
-    <PostBuildEvent>copy $(TargetPath) $(SolutionDir)\Builds\$(ConfigurationName)\</PostBuildEvent>
+    <PostBuildEvent>xcopy $(TargetPath) $(SolutionDir)Builds\$(ConfigurationName)\ /Y</PostBuildEvent>
   </PropertyGroup>
 </Project>

@@ -2,6 +2,7 @@ bin
 obj
 Debug
 Release
+Builds
 *.ncb
 *.suo
 *.user
