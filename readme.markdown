@@ -13,16 +13,16 @@ The simplest way to build Dot Net Anywhere is using Visual Studio 2011 on Window
 
 This will create a 'Build/Debug/' directory which contains:
 
-* **dna.exe**: The CIL interpreter runtime *(native executable)*
-* **libIGraph.dll**: Low-levl graphics handling *(native library)*
-* **FreeType.dll**: The [FreeType][2] font engine *(native library)*
-* **/Fonts** directory: Font .ttf files
-* **corlib.dll**: Dot Net Anywhere implementation of mscorlib.dll *(CIL library)*
-* **System.dll**:  Dot Net Anywhere implementation of System.dll *(CIL library)*
-* **System.Core.dll**:  Dot Net Anywhere implementation of System.Core.dll *(CIL library)*
-* **System.Drawing.dll**:  Dot Net Anywhere implementation of System.Drawing.dll; requires libIGraph.dll *(CIL library)*
-* **CustomDevice.dll**: Defines a the user interface of a custom device *(CIL library)*
-* **Snake.exe**: Demonstration game of snake *(CIL executable)*
+* ***dna.exe***: The CIL interpreter runtime *(native executable)*
+* ***libIGraph.dll***: Low-levl graphics handling *(native library)*
+* ***FreeType.dll***: The [FreeType][2] font engine *(native library)*
+* ***/Fonts*** directory: Font .ttf files
+* ***corlib.dll***: Dot Net Anywhere implementation of mscorlib.dll *(CIL library)*
+* ***System.dll***:  Dot Net Anywhere implementation of System.dll *(CIL library)*
+* ***System.Core.dll***:  Dot Net Anywhere implementation of System.Core.dll *(CIL library)*
+* ***System.Drawing.dll***:  Dot Net Anywhere implementation of System.Drawing.dll; requires libIGraph.dll *(CIL library)*
+* ***CustomDevice.dll***: Defines a the user interface of a custom device *(CIL library)*
+* ***Snake.exe***: Demonstration game of snake *(CIL executable)*
 
 How to use
 ----------
