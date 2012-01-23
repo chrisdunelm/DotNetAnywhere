@@ -30,7 +30,7 @@ How to use
 When at a command prompt in the Build/Debug directory:
 
 ```
-dna.exe \[\<options\>\] \<CIL executable\> \[\<Cil executable arguments\>\]
+dna.exe [<options>] <CIL executable> [<Cil executable arguments>]
 ```
 
 So, to run the included snake game:
