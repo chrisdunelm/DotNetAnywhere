@@ -60,6 +60,11 @@ namespace CustomDevice {
 			}
 		}
 
+		public static bool Exited {
+			get; 
+			internal set;
+		}
+
 		private static Graphics GetScreen_InterNet2() {
 			// In the InterNet2 System.Drawing dll Graphics.FromHdc() will always
 			// return the Graphics object for the screen.

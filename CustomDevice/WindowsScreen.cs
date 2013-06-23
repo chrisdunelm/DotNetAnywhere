@@ -53,6 +53,7 @@ namespace CustomDevice {
 
 			this.ClientSize = new Size(width, height);
 
+			this.Closed += (sender, args) => DeviceGraphics.Exited = true;
 			this.Show();
 			this.Activate();
 
@@ -74,7 +75,7 @@ namespace CustomDevice {
 
 		internal static void WindowsMessagePump(object state) {
 			WindowsScreen.winScreen = new WindowsScreen(DeviceGraphics.ScreenXSize, DeviceGraphics.ScreenYSize);
-			for (; ; ) {
+			for (; !DeviceGraphics.Exited; ) {
 				Application.DoEvents();
 				Thread.Sleep(40);
 				WindowsScreen.winScreen.Refresh();
