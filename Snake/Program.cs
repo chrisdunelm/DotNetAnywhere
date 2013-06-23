@@ -47,6 +47,10 @@ namespace Snake {
 
 			CrashType crashType;
 			for (; ; ) {
+
+				if (DeviceGraphics.Exited)
+					return false;
+
 				Thread.Sleep(delay);
 				KeyPadKey key;
 				if (KeyPad.LatestKeyDown(out key)) {
