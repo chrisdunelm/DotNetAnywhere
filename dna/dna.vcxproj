@@ -71,7 +71,7 @@
       <Profile>true</Profile>
     </Link>
     <PostBuildEvent>
-      <Command>xcopy "$(TargetDir)$(TargetFileName)" "$(SolutionDir)Builds\$(Configuration)\"</Command>
+      <Command>xcopy "$(TargetDir)$(TargetFileName)" "$(SolutionDir)Builds\$(Configuration)\" /Y</Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
@@ -99,7 +99,7 @@
       <Profile>true</Profile>
     </Link>
     <PostBuildEvent>
-      <Command>xcopy "$(TargetDir)$(TargetFileName)" "$(SolutionDir)Builds\$(Configuration)\"</Command>
+      <Command>xcopy "$(TargetDir)$(TargetFileName)" "$(SolutionDir)Builds\$(Configuration)\" /Y</Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemGroup>

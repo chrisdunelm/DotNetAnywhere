@@ -73,9 +73,9 @@
       <TargetMachine>MachineX86</TargetMachine>
     </Link>
     <PostBuildEvent>
-      <Command>xcopy "$(TargetDir)$(TargetFileName)" "$(SolutionDir)Builds\$(Configuration)\"
-xcopy "$(ProjectDir)freetype.dll" "$(SolutionDir)Builds\$(Configuration)\"
-xcopy "$(ProjectDir)Fonts\*.ttf" "$(SolutionDir)Builds\$(Configuration)\Fonts\"</Command>
+      <Command>xcopy "$(TargetDir)$(TargetFileName)" "$(SolutionDir)Builds\$(Configuration)\" /Y
+xcopy "$(ProjectDir)freetype.dll" "$(SolutionDir)Builds\$(Configuration)\" /Y
+xcopy "$(ProjectDir)Fonts\*.ttf" "$(SolutionDir)Builds\$(Configuration)\Fonts\" /Y</Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
@@ -99,8 +99,9 @@ xcopy "$(ProjectDir)Fonts\*.ttf" "$(SolutionDir)Builds\$(Configuration)\Fonts\"<
       <TargetMachine>MachineX86</TargetMachine>
     </Link>
     <PostBuildEvent>
-      <Command>xcopy "$(TargetDir)$(TargetFileName)" "$(SolutionDir)Builds\$(Configuration)\"
-xcopy "$(ProjectDir)freetype.dll" "$(SolutionDir)Builds\$(Configuration)\"</Command>
+      <Command>xcopy "$(TargetDir)$(TargetFileName)" "$(SolutionDir)Builds\$(Configuration)\" /Y
+xcopy "$(ProjectDir)freetype.dll" "$(SolutionDir)Builds\$(Configuration)\" /Y
+xcopy "$(ProjectDir)Fonts\*.ttf" "$(SolutionDir)Builds\$(Configuration)\Fonts\" /Y</Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemGroup>
