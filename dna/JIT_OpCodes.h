@@ -199,6 +199,8 @@
 #define JIT_NOT_I32				0x8b
 #define JIT_NEG_I64				0x8c
 #define JIT_NOT_I64				0x8d
+#define JIT_NEG_F32				0x1Fc
+#define JIT_NEG_F64				0x1Fd
 
 #define JIT_BOX_NULLABLE		0x8e
 #define JIT_LOAD_F64			0x8f
