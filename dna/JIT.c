@@ -806,6 +806,12 @@ cilBinaryArithOp:
 				} else if (pTypeA->stackType == EVALSTACK_INT64) {
 					PushOp(JIT_NEG_I64 + (op - CIL_NEG));
 					PushStackType(types[TYPE_SYSTEM_INT64]);
+				} else if (pTypeA->stackType == EVALSTACK_F32) {
+					PushOp(JIT_NEG_F32);
+					PushStackType(types[TYPE_SYSTEM_SINGLE]);
+				} else if (pTypeA->stackType == EVALSTACK_F64) {
+					PushOp(JIT_NEG_F64);
+					PushStackType(types[TYPE_SYSTEM_DOUBLE]);
 				} else {
 					Crash("JITit(): Cannot perform unary operand on stack types: %d", pTypeA->stackType);
 				}
