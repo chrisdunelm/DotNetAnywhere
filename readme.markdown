@@ -3,7 +3,11 @@ Dot Net Anywhere
 Dot Net Anywhere is a interpreted .NET CIL runtime.
 
 -------
+
 # This project is inactive. No issues or PRs will be dealt with.
+
+*However! The code is being used in [Blazor](https://github.com/SteveSanderson/Blazor) IL-in-a-browser project :)*
+
 -------
 
 The runtime itself is written in C and has been designed to be as small and portable as possible, allowing .NET software to be used on resource-constrained devices where it is not possible to run a full .NET runtime (e.g. [Mono][1]).
