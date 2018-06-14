@@ -3,6 +3,7 @@ obj
 Debug
 Release
 Builds
+.vs
 *.ncb
 *.suo
 *.user
