@@ -13,6 +13,9 @@ This code was live-coded from (almost) nothing at [NDC-Oslo](https://ndcoslo.com
 2018 in exactly one hour at the talk:
 [So you want to create your own .NET runtime](https://ndcoslo.com/talk/so-you-want-to-create-your-own-net-runtime/).
 
+The code for the .NET runtime itself is all in
+[mini-demo-dna/main.c](https://github.com/chrisdunelm/DotNetAnywhere/blob/master/mini-demo-dna/mini-demo-dna/main.c)
+
 The video will be available shortly...
 
 All information required to understand/extend/improve this code is in the .NET
