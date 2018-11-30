@@ -6,7 +6,7 @@ Dot Net Anywhere is a interpreted .NET CIL runtime.
 
 # This project is inactive. No issues or PRs will be dealt with.
 
-*However! The code was used in initial prototypes [Blazor](https://github.com/SteveSanderson/Blazor) IL-in-a-browser project :)*
+*However! The code was used in initial prototypes of [Blazor](https://github.com/SteveSanderson/Blazor) IL-in-a-browser project :)*
 
 -------
 
