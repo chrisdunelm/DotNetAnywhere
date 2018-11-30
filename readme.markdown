@@ -6,7 +6,7 @@ Dot Net Anywhere is a interpreted .NET CIL runtime.
 
 # This project is inactive. No issues or PRs will be dealt with.
 
-*However! The code is being used in [Blazor](https://github.com/SteveSanderson/Blazor) IL-in-a-browser project :)*
+*However! The code was used in initial prototypes [Blazor](https://github.com/SteveSanderson/Blazor) IL-in-a-browser project :)*
 
 -------
 
@@ -111,4 +111,4 @@ To access the screen of the device, the CustomDevice class contains a method Get
 
 [1]: http://www.mono-project.com
 [2]: http://freetype.org
-[3]: http://en.wikipedia.org/wiki/Threaded_code
+[3]: https://en.wikipedia.org/wiki/Threaded_code#Direct_threading
