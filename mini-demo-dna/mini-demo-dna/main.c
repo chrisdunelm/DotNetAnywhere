@@ -196,6 +196,7 @@ tMD_MethodDef* GetMethodByToken(tFile *pFile, int methodToken) {
 typedef struct tMethodState tMethodState;
 struct tMethodState {
 	tFile *pFile;
+	tMD_MethodDef *pMethodDef;
 	void *pIL;
 	int ip;
 	char evalStack[32];
@@ -204,6 +205,8 @@ struct tMethodState {
 
 tMethodState* CreateMethodState(tMD_MethodDef *pMethodDef) {
 	tMethodState *pMethodState = T_CALLOC(tMethodState);
+	pMethodState->pFile = pMethodDef->prefix.pFile;
+	pMethodState->pMethodDef = pMethodDef;
 	void *pILHeader = RVA_FindData(pMethodDef->prefix.pFile, pMethodDef->rva);
 	if ((VAL(char, pILHeader, 0) & 0x3) != 0x2) Crash("Can only understand Tiny IL Headers");
 	pMethodState->pIL = PTR(pILHeader, 1);
@@ -211,6 +214,8 @@ tMethodState* CreateMethodState(tMD_MethodDef *pMethodDef) {
 }
 
 void Execute(tMethodState *pMethodState) {
+	tFile *pFile = pMethodState->pFile;
+	printf("\nExecuting method: '%s'\n", GET_STRING(pFile, pMethodState->pMethodDef->nameIndex));
 	void *pIL = pMethodState->pIL;
 	void *pEvalStack = pMethodState->evalStack;
 	for (;;) {
@@ -228,8 +233,35 @@ void Execute(tMethodState *pMethodState) {
 			pMethodState->esp += 4;
 			break;
 		}
+		case 0x28: // CALL
+		{
+			// Load method-def|ref token from IL.
+			// Only method-defs are handle currently. I.e. the method being called must in this assembly.
+			int callToken = VAL(int, pIL, pMethodState->ip);
+			pMethodState->ip += 4;
+			// Load the method-definition from the metadata, and create a method state.
+			tMD_MethodDef *pCallMethodDef = GetMethodByToken(pFile, callToken);
+			tMethodState *pCallMethodState = CreateMethodState(pCallMethodDef);
+			// Execute the method.
+			Execute(pCallMethodState);
+			// If it has a return-value, copy it to to evaluation-stack of this method.
+			memcpy(PTR(pEvalStack, pMethodState->esp), pCallMethodState->evalStack, pCallMethodState->esp);
+			pMethodState->esp += pCallMethodState->esp;
+			break;
+		}
 		case 0x2a: // RET
+			printf("Executing method return from: '%s' \n\n", GET_STRING(pFile, pMethodState->pMethodDef->nameIndex));
 			return;
+		case 0x58: // ADD
+		{
+			// Assume we're adding int32 values.
+			// Read the top two int32 values from the evaluation stack, add them, then push back on to the evaluation stack.
+			int value2 = VAL(int, pEvalStack, pMethodState->esp - 4);
+			int value1 = VAL(int, pEvalStack, pMethodState->esp - 8);
+			VAL(int, pEvalStack, pMethodState->esp - 8) = value1 + value2;
+			pMethodState->esp -= 4;
+			break;
+		}
 		default:
 			Crash("Cannot (yet) execute opcode: 0x%02x\n", opcode);
 		}
