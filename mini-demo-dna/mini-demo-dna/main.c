@@ -198,6 +198,8 @@ struct tMethodState {
 	tFile *pFile;
 	void *pIL;
 	int ip;
+	char evalStack[32];
+	int esp;
 };
 
 tMethodState* CreateMethodState(tMD_MethodDef *pMethodDef) {
@@ -210,13 +212,22 @@ tMethodState* CreateMethodState(tMD_MethodDef *pMethodDef) {
 
 void Execute(tMethodState *pMethodState) {
 	void *pIL = pMethodState->pIL;
+	void *pEvalStack = pMethodState->evalStack;
 	for (;;) {
 		unsigned char opcode = VAL(unsigned char, pIL, pMethodState->ip);
 		pMethodState->ip += 1;
 		printf("Executing opcode: 0x%02x\n", opcode);
 		switch (opcode) {
-		case 0x00: // NOP
+		case 0x1f: // LDC.I4.S
+		{
+			// Load int32 from short-form (signed byte).
+			int value = VAL(char, pIL, pMethodState->ip);
+			pMethodState->ip += 1;
+			// Store in top of evaluation stack.
+			VAL(int, pEvalStack, pMethodState->esp) = value;
+			pMethodState->esp += 4;
 			break;
+		}
 		case 0x2a: // RET
 			return;
 		default:
@@ -235,8 +246,21 @@ int main(int argc, char** argp) {
 	// Execute entry-point method
 	Execute(pMethodState);
 
-	printf("Execution completed successfully :)\n");
+	int exitCode;
+	if (pMethodState->esp == 4)
+	{
+		// If an int32 value is left at position 0 in the evaluation stack, then this is the exit-code.
+		exitCode = VAL(int, pMethodState->evalStack, 0);
+		printf("Execution completed successfully. Exit-code: %i", exitCode);
+	}
+	else
+	{
+		exitCode = 0;
+		printf("Execution completed successfully. No exit-code");
+	}
 
 	printf("\n\n(Press enter to exit)\n");
 	getchar();
+
+	return exitCode;
 }
